@@ -12,23 +12,7 @@ class Dog
   def name 
     @name 
   end
-  
-  # def owner 
-  #   @owner
-  # end
- 
-  # def mood 
-  #   @mood
-  # end
- 
-  # def owner=(owner)
-  #   @owner = owner 
-  # end
- 
-  # def mood=(mood)
-  #   @mood = mood
-  # end
-  
+
   def self.all 
     @@all
   end
